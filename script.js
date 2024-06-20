@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: " which is HTML stands for?",
+        question: " what is HTML stands for?",
         answers: [
             {text:"Height text markup Language",correct:false},
             {text:"Hyper text making language",correct:false},
@@ -9,30 +9,30 @@ const questions = [
         ]
     },
     {
-        question: " which is CSS stands for?",
+        question: "If form data contains sensitive or personal information, method to use is?",
         answers: [
-            {text:"Cascading Stylish Sheets",correct:false},
-            {text:"Cascading Style Sheets ",correct:true},
-            {text:"Cascading style Store",correct:false},
+            {text:"Get",correct:false},
+            {text:"Post ",correct:true},
+            {text:"Append",correct:false},
+            {text:"set",correct:false},
+        ]
+    },
+    {
+        question: "Alpha in RGB extension named RGBA defines?",
+        answers: [
+            {text:"Hue",correct:false},
+            {text:"transparency",correct:false},
+            {text:"Opacity",correct:true},
             {text:"none",correct:false},
         ]
     },
     {
-        question: " which function calls itself?",
+        question: " which of the following is true about Bootstarp?",
         answers: [
-            {text:"Recursion",correct:true},
-            {text:"User defined",correct:false},
-            {text:"both",correct:false},
-            {text:"none",correct:false},
-        ]
-    },
-    {
-        question: " which of the follwing can redefine as well as reintialize?",
-        answers: [
-            {text:"var",correct:true},
-            {text:"let",correct:false},
-            {text:"const",correct:false},
-            {text:"none",correct:false},
+            {text:"Open source product",correct:false},
+            {text:"Front-end Framework",correct:false},
+            {text:"gives ability to craete responsive designs",correct:false},
+            {text:"All of the above",correct:true},
         ]
 
     },
