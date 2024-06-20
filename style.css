@@ -107,12 +107,11 @@ body{
 }
 
 @media(max-width:600px){
-    .app{
-        width: 80%;
-        height: 30%;
+    .app {
+        width: 70%;
+        height: 45%;
         margin-top: 28%;
-        margin-left: 8%;
-
+        margin-left: 5%;
     }
     .app h1{
         font-size: 21px;
