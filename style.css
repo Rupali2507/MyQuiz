@@ -87,7 +87,7 @@ body{
 
 .box{
     position: absolute;
-    width: 89%;
+    width: 92%;
     height: 90%;
     background-color: rgb(35, 14, 81);
     opacity: 0.3;
@@ -108,8 +108,8 @@ body{
 
 @media(max-width:500px){
     .app{
-        width: 70%;
-        height: 50%;
+        width: 80%;
+        height: 45%;
         margin-top: 28%;
         margin-left: 8%;
 
@@ -118,6 +118,6 @@ body{
         font-size: 21px;
     }
     .quiz h2 {
-        font-size: 15px;
+        font-size: 20px;
     }
 }
